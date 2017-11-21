@@ -2106,7 +2106,7 @@ class DSLC_Module {
 
 			// Before Module.
 			$before_module_content = '';
-			echo apply_filters( 'dslc_before_module', $before_module_content, $options );
+			// echo apply_filters( 'dslc_before_module', $before_module_content, $options );
 		}
 
 		?>
